@@ -8,8 +8,8 @@
 		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.springmate.framework</groupId>
-	<artifactId>springmate</artifactId>
+	<groupId>com.springmate</groupId>
+	<artifactId>springmate-framework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springmate</name>
 	<description>Demo project for Spring Boot</description>
